@@ -1,9 +1,9 @@
 [submodule "src/jetyak_force_model"]
 	path = src/jetyak_force_model
-	url = https://github.com/jetyak/jetyak_force_model.git
+	url = https://github.com/afrl-jetyak/jetyak_force_model.git
 [submodule "src/jetyak_control"]
 	path = src/jetyak_control
-	url = https://github.com/jetyak/jetyak_control.git
+	url = https://github.com/afrl-jetyak/jetyak_control.git
 [submodule "src/jetyak_drivers"]
 	path = src/jetyak_drivers
 	url = https://github.com/jetyak/jetyak_drivers.git
